@@ -3,8 +3,7 @@ local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local lp = Players.LocalPlayer
 local camera = workspace.CurrentCamera
-
--- cfg u can change it
+-- cfg
 local MAX_DISTANCE = 100
 local MIN_SCALE = 2.6
 local MAX_SCALE = 3.6
@@ -189,7 +188,7 @@ local colors = {
 
 for i, col in ipairs(colors) do
     local cBtn = Instance.new("TextButton")
-    cBtn.Size = UDim2.new(0, 18, 0, 37)
+    cBtn.Size = UDim2.new(0, 18, 0, 18)
     cBtn.Position = UDim2.new(0, (i-1)*24, 0, 0)
     cBtn.BackgroundColor3 = col
     cBtn.Text = ""
