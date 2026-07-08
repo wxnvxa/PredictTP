@@ -34,7 +34,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 6. TERMINATION
 This license is effective until terminated. Your rights under this Agreement will terminate automatically without notice if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software.
 
-7. CONTACT AND PERMISSIONS
+7. POST-TERMINATION OBLIGATIONS
+Upon termination of this Agreement for any reason, the Licensee must immediately:
+- Cease all use of the Software.
+- Destroy, delete, and purge all copies of the Software and its source code from all devices, systems, and storage media under the Licensee's possession or control.
+- Immediately remove and cease any further distribution, posting, or sharing of the loadstring execution snippet (as described in Section 2) from any channels, servers, forums, or platforms where the Licensee previously shared it.
+
+8. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by, and construed in accordance with, the laws of the Russian Federation, without regard to its conflict of law principles. Any dispute, controversy, or claim arising out of or in connection with this Agreement, including its existence, validity, or termination, shall be subject to the exclusive jurisdiction of the courts located in the Author's place of residence.
+
+9. CONTACT AND PERMISSIONS
 Any deviation from these terms, including commercial usage, integration into other exploit hubs/scripts, or code modifications, requires explicit written permission from the Author.
 
 For inquiries, contact the Author:
